@@ -1,0 +1,34 @@
+public class PuntosdeInteres
+{
+    public String nombre;
+    public int codigo;
+    public String direccion;
+
+    public PuntosdeInteres(String nombre, int codigo, String direccion)
+    {
+        public this.nombre
+        public this.codigo
+        public this.direccion
+    }
+    public nombre getnombre (){
+        return nombre;
+    }
+
+    public void setnombre (nombre nom){
+        this.nombre = nom;
+    }
+    public codigo getcodigo (){
+        return codigo;
+    }
+
+    public void setcodigo (codigo cod){
+        this.codigo = cod;
+    }
+    public direccion getdireccion (){
+        return direccion;
+    }
+
+    public void setdireccion (direccion DIR){
+        this.direccion = dir;
+    }
+}

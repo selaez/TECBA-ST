@@ -1,0 +1,22 @@
+public class CategoriadeUsuario{
+    public String Nombre;
+    public String Contraceña;
+
+    public CategoriadeUsuario(String Nombre,String Contraceña){
+        this.Nombre=Nombre;
+        this.Contraceña=Contraceña
+    }
+
+    public void setnombre (nombre nom){
+        this.nombre = nom;
+    }
+    public codigo getnombre (){
+        return nombre;
+    }
+    public void setContraceña (Contraceña cont){
+        this.Contraceña = nom;
+    }
+    public contraceña getContraceña (){
+        return codigo;
+    }
+}
