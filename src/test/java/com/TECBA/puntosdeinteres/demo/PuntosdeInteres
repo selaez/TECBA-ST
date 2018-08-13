@@ -1,0 +1,33 @@
+public class PuntosdeInteres {
+
+
+    private String nombre;
+
+    private String direccion;
+
+    private String lugar;
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public String getdireccion() {
+        return direccion;
+    }
+
+    public String getlugar() {
+        return lugar;
+    }
+
+
+    public void setnombre(String nombre) {
+        this.nombre = nombre;
+    }
+    public void setEdad(String direccion) {
+        this.direccion = direccion;
+    }
+    public void setlugar(String lugar ) {
+        this.lugar = lugar ;
+    }
+
+}
